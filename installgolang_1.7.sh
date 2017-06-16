@@ -39,3 +39,8 @@ sed -i '$a\export GOPATH=/root/go1.7.5-projects ' /etc/profile
 mkdir -p /root/go1.7.5-projects/src/github.com/hyperledger
 
 source /etc/profile
+
+rm -rf go1.4
+rm go1.4.3.tar.gz
+rm go1.7.5.tar.gz
+rm -rf go-go1.4.3/
