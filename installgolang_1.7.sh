@@ -1,3 +1,4 @@
+apt-get update
 
 # get the source code of go1.4.3
 cd ~/
