@@ -29,4 +29,4 @@ You can run `source installJava_8.sh` to run the oracle-java
 Have fun!
 If you meet any problems ,please create issue to this project or fix the bug and send the pull request to me.
 
-Contribution most welcome!
+Contributions welcome!
