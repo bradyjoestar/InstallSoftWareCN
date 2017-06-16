@@ -10,13 +10,14 @@ Make sure you will run these script under the root user.
 
 
 ## golang
-You can run source installgolang_1.7.sh
+You can run `source installgolang_1.7.sh`
 
 After installing,you can run `go version` and `go env` to see the GOPATH\GOROOT 
 ## docker
-You can run source installD
+You can run `source installDocker.sh`
 
 
 ## nodejs
 
 ## oracle- java
+You can run `source installJava_8.sh` to run the oracle-java
