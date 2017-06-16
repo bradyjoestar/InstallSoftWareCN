@@ -18,6 +18,15 @@ You can run `source installDocker.sh`
 
 
 ## nodejs
+You can run `soruce nodejs` to install nodejs/npm
+
+this scritp also replace the npm source to cnpm source,when you want to use npm ,please type the `cnpm`
 
 ## oracle- java
 You can run `source installJava_8.sh` to run the oracle-java
+
+
+Have fun!
+If you meet any problems ,please create issue to this project or fix the bug and send the pull request to me.
+
+Contribution most welcome!
